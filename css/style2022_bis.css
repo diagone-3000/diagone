@@ -430,6 +430,7 @@ background: radial-gradient(bottom, #FFF, #F0FFFB);
 	filter: grayscale(50%);
 	/*! bottom: 3em; */
 	accent-coloraccent-color: ;
+	display:none;
 }
 }
 
