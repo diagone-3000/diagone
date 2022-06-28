@@ -1119,6 +1119,8 @@ display: block;
 #nav-menu-container {
   float: left;
   margin: 0;
+  padding-right: 60px;
+
 }
 
 
@@ -1147,10 +1149,10 @@ a.nav-droite:hover {
   }
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   #nav-menu-container {
     display: none;
-  }
+  }*/
 
   .nav-droite {
     display: none;
