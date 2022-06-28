@@ -3,7 +3,7 @@
   Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
-*/ 
+*/
 /*--------------------------------------------------------------
 # General  
 --------------------------------------------------------------*/
@@ -377,9 +377,6 @@ background: radial-gradient(bottom, #FFF, #F0FFFB);
 }
 
 
-
-
-
 #regle {
 	display: block;
 	position: absolute;
@@ -406,6 +403,33 @@ background: radial-gradient(bottom, #FFF, #F0FFFB);
 	accent-coloraccent-color: ;
 }
 
+@media (max-width: 768px) {
+#regle {
+	display: block;
+	position: absolute;
+	/*! top: 0px; */
+	/*animation: Upup1 3s linear infinite;*/
+	z-index: 0;
+	
+	width: 150px;
+	/*! left: -120px; */
+	/*! margin-left: auto; */
+	/*! margin-right: auto; */
+	width: 400px;
+	/*! margin-top: -40px; */
+	/*! margin-left: -30px; */
+	/*! margin-top: 10%; */
+	/*! margin-left: 10%; */
+	/*! margin-right: 0; */
+	z-index: 1;
+	top: 28em;
+	transform: rotate(7deg);
+	right: -20%;
+	filter: grayscale(50%);
+	/*! bottom: 3em; */
+	accent-coloraccent-color: ;
+}
+}
 
 .zoomtitre  {
 	transition: transform .8s;
@@ -646,7 +670,7 @@ color: black;
 #intro h2 {
 	color: #7b7b7b;
 	 font-size: 35px;
-	/*background-color: #d6d6d64d;*/
+	display:none;
 	}
 
 }
