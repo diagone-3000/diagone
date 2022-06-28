@@ -662,7 +662,7 @@ color: black;
 -webkit-background-clip: text;
 -webkit-box-decoration-break: clone;
 	font-family: 'Water Brush', cursive;
-	height: 200px;
+	/*height: 200px;*/
 	transform: rotate(-6deg);
 	z-index: 2;
 	position: relative;
@@ -1063,9 +1063,15 @@ display: block;
 --------------------------------------------------------------*/
 /* Nav Menu Essentials */
 .nav-menu, .nav-menu * {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 700;
+	font-size: 13px;
+	text-transform: uppercase;
+	color: #f9a5a5;
 }
 
 .nav-menu ul {
