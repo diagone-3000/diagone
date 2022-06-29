@@ -93,6 +93,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-text-fill-color: transparent;
   animation: textclip 1s linear infinite;
   animation-iteration-count: 1;
+  animation-delay: 2s;
   display: inline-block;
       font-size: 190px;
 }
