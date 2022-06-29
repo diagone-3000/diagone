@@ -7,6 +7,7 @@
 /*--------------------------------------------------------------
 # General  
 --------------------------------------------------------------*/
+
 // Colors
 $bg-color: hsl(256,33,10);
 $dot-color: hsl(256,33,70);
@@ -75,6 +76,40 @@ h1, h2, h3, h4, h5, h6 {
     bottom: 15px;
   }
 }
+
+/*-------------------------------------------------------------
+# Animation titre
+--------------------------------------------------------------*/
+.animate-character
+{
+   
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 100% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 1s linear infinite;
+  animation-iteration-count: 1;
+  display: inline-block;
+      font-size: 190px;
+}
+
+@keyframes textclip {
+  from {
+    background-position: 200% center;
+    background-size: 200% auto;
+  }
+  
+   to {
+    background-size: 100% auto;
+  }
+  
+  
+}
+
 
 /*--------------------------------------------------------------
 # Header
@@ -662,7 +697,7 @@ color: black;
 -webkit-text-fill-color: transparent;
 -webkit-background-clip: text;
 -webkit-box-decoration-break: clone;
-	font-family: 'Water Brush', cursive;
+	font-family: 'Water Brush', sans-serif;
 	height: 200px;
 	transform: rotate(-6deg);
 	z-index: 2;
@@ -1355,7 +1390,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	position: relative;
 	padding-bottom: 15px;
 	/*! font-family: 'Montserrat', cursive; */
-	font-family: 'Iceberg', cursive;
+	font-family: 'Iceberg', 'Montserrat';
 	/*! background-image: linear-gradient(225deg, #84dddd, #000); */
 	/*! filter: drop-shadow(0 20px 30px #99121233); */
 	color: #0b3e39;
@@ -2515,13 +2550,14 @@ width: 150px;
 margin-left: 4em;
 /*! margin-right: 45%; */
 display: inline;
-/*! margin-top: -18em; */
+margin-top: -6em;
 /*! float: right; */
 }
 
 #siteskills2b {
 background-color: transparent !important;
 box-shadow: none !important;
+filter: brightness(1.3);
 }
 
 
@@ -2549,13 +2585,14 @@ position: relative;
 background-color: transparent !important;
 box-shadow: none !important;
 margin-top: -2em;
+filter: brightness(1.2);
 }
 
 
 #skills .precontainer::before {
 	content: ''; 
 	background-color: rgba(243, 241, 241, 0.8);
-	background: url("../img/kiwihug-IICTER2CcoA-unsplash.jpg"); 
+	background: url("../img/kiwihug-IICTER2CcoA-web.jpg"); 
 	position: absolute;
 	height: 100%;
 	width: 100%;
