@@ -9,6 +9,8 @@
 
 &nbsp;
 
+&nbsp;
+
 ![Photo stylisée de l'auteur](/img/avatar-rond2c.png)  
 **Infographiste** et **développeur web full-stack**, je suis en mesure de concrétiser vos demandes de création visuelle pour un rendu adapté sur tous types d'écrans.  
 Confiez votre site à un web designer pour le rendre plus attractif visuellement, pour concevoir ou améliorer votre identité visuelle, et faire de votre site web une expérience de navigation attractive et responsive : [**DIAGONE Web Design**](https://diag.one)
@@ -45,6 +47,8 @@ Le web design est un ensemble de compétences pour concevoir l'interface web qui
 
 Le web design nécessite des compétences en programmation, en ergonomie, en graphisme et communication graphique, ainsi qu'une bonne connaissance des contraintes techniques liées au domaine du web.
 Ce sont des connaissances indispensables pour pouvoir concevoir une maquette (ou modélisation), dans lesquelles les contraintes d'ergonomie peuvent s'accorder avec la création d'une charte graphique, d'une palette couleur, et d'un logo sur-mesure.
+
+&nbsp;
 
 ![Illustration de cubes stylisés façon technologie](/img/cubes.png)
 
