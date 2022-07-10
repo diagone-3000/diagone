@@ -54,4 +54,5 @@ Ce sont des connaissances indispensables pour pouvoir concevoir une maquette (ou
 Pour une demande de devis ou pour un simple avis, n'hésitez pas à me contacter pour me parler de votre projet, en m'expliquant ce que vous cherchez à réaliser.  
 Je vous répondrai au plus tôt.
 
+* Adresse mail :
     contact@diag.one
