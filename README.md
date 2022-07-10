@@ -1,6 +1,6 @@
 ![Logo de l'entreprise DIAGONE](/img/accueil-logo_DIAGONE.png)
 
-# Vous souhaitez améliorer l'esthétique de votre site web ou en créer un de toute pièce? 
+# Vous souhaitez améliorer l'esthétique de votre site web, ou en créer un de toute pièce? 
 
 ## Description de l'activité DIAGONE
 (*Site web :* [**DIAG.ONE**](https://diag.one))  
