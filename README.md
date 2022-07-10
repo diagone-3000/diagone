@@ -10,8 +10,6 @@ Diagone est une micro-entreprise de création de site internet située en France
 
 ![Exemple de charte graphique et illustration réalisée par Diagone](/img/portfolio_K2.png)
 
-![Exemple de charte graphique et illustration réalisée par Diagone](/img/La_D%C3%A9foul%C3%A9e-POUR_PORTFOLIO-2-500PX.png)
-
  
 ### Les services que je propose
 
@@ -23,6 +21,8 @@ De l'achat d'un nom de domaine et la mise en place de l'hébergement de votre si
  Choix d'un site vitrine simple ou d'un site administrable qui vous permet d'en modifier le contenu (Wordpress ou autre CMS, boutique, etc.).  Installation de votre contenu sur des serveurs adéquats. Optimisation pour le référencement par les moteurs de recherche (cohérence HTML et sémantique, métadonnées, contenu enrichi schema.org)
 #### Visuels, charte graphique
 Améliorez l'image de votre site avec des éléments graphiques faits sur mesure: logo, icônes etc. Au-delà des images, je conçois avec vous l'organisation visuelle de votre contenu pour rendre la visite de votre site agréable et efficace, adaptée à toutes les tailles d'écran.
+		
+![Exemple de charte graphique et illustration réalisée par Diagone](/img/La_D%C3%A9foul%C3%A9e-POUR_PORTFOLIO-2-500PX.png)
 		
 ## Qu'est-ce que le web design ?
 Le web design est un ensemble de compétences pour concevoir l'interface web qui constitue la partie visible d'un site internet, mais également son architecture, son arboresence et la navigation à l'intérieur de celle-ci.
