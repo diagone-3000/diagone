@@ -4,7 +4,8 @@
 
 ## Description de l'activité DIAGONE
 (*Site web :* [**DIAG.ONE**](https://diag.one))  
-Infographiste et développeur web full-stack, je suis en mesure de concrétiser vos demandes de création visuelle pour un rendu adapté sur tous types d'écrans.  
+
+![Photo stylisée de l'auteur](/img/avatar-rond2c.png) Infographiste et développeur web full-stack, je suis en mesure de concrétiser vos demandes de création visuelle pour un rendu adapté sur tous types d'écrans.  
 Confiez votre site à un web designer pour le rendre plus attractif visuellement, pour concevoir ou améliorer votre identité visuelle, et faire de votre site web une expérience de navigation attractive et responsive : [**DIAGONE Web Design**](https://diag.one)
 
 Diagone est une micro-entreprise de création de site internet située en France, dans la zone géographique de Saint-Marcellin en Isère. Proche de Pont-en-Royans, Vinay, Saint-Antoine-l'Abbaye, Romans, Tullins, Moirans, Grenoble, Valence, et Lyon. communication graphique. 
