@@ -1,5 +1,7 @@
 # Vous souhaitez améliorer l'esthétique de votre site web ou en créer un de toute pièce? 
 
+![Logo de l'entreprise DIAGONE](/https://github.com/diagone-3000/diagone/blob/main/img/accueil-logo_DIAGONE.png)
+
 (*Site web complet :* [**DIAG.ONE**](https://diag.one))
 
 ## Description de l'activité DIAGONE
