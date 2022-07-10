@@ -2,8 +2,12 @@
 
 # Vous souhaitez améliorer l'esthétique de votre site web, ou en créer un de toute pièce? 
 
+&nbsp;
+
 ## Description de l'activité DIAGONE
 (*Site web :* [**DIAG.ONE**](https://diag.one))  
+
+&nbsp;
 
 ![Photo stylisée de l'auteur](/img/avatar-rond2c.png)  
 **Infographiste** et **développeur web full-stack**, je suis en mesure de concrétiser vos demandes de création visuelle pour un rendu adapté sur tous types d'écrans.  
@@ -13,7 +17,9 @@ Diagone est une micro-entreprise de création de site internet située en France
 
 ![Exemple de charte graphique et illustration réalisées par Diagone](/img/portfolio_K2.png)  
 (*Ci-dessus : exemple d'illustration et charte graphique réalisées pour le site web de l'équipe championne du monde de Double Dutch, [koezionjump.fr](https://koezionjump.fr/)*)
- 
+
+&nbsp;
+
 ### Les services que je propose
 
 De l'achat d'un nom de domaine et la mise en place de l'hébergement de votre site internet jusqu'à la création de votre logo ou la refonte de la charte graphique de votre site web existant, je vous conseille et vous propose une solution adaptée à vos besoins et moyens.
@@ -27,7 +33,9 @@ Améliorez l'image de votre site avec des éléments graphiques faits sur mesure
 		
 ![Exemple de charte graphique et illustration réalisée par Diagone](/img/La_D%C3%A9foul%C3%A9e-POUR_PORTFOLIO-2-500PX.png)  
 (*Ci-dessus : Visuel réalisé pour le CROUS Grenoble Alpes*)
-		
+
+&nbsp;
+	
 ## Qu'est-ce que le web design ?
 Le web design est un ensemble de compétences pour concevoir l'interface web qui constitue la partie visible d'un site internet, mais également son architecture, son arboresence et la navigation à l'intérieur de celle-ci.
 
