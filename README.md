@@ -2,7 +2,7 @@
 
 ![Logo de l'entreprise DIAGONE](/img/accueil-logo_DIAGONE.png)
 
-(*Site web complet :* [**DIAG.ONE**](https://diag.one))
+(*Site web :* [**DIAG.ONE**](https://diag.one))
 
 ## Description de l'activité DIAGONE
 Infographiste et développeur web full-stack, je suis en mesure de concrétiser vos demandes de création visuelle pour un rendu adapté sur tous types d'écrans.  
