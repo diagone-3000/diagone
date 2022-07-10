@@ -9,6 +9,9 @@ Confiez votre site à un web designer pour le rendre plus attractif visuellement
 Diagone est une micro-entreprise de création de site internet située en France, dans la zone géographique de Saint-Marcellin en Isère. Proche de Pont-en-Royans, Vinay, Saint-Antoine-l'Abbaye, Romans, Tullins, Moirans, Grenoble, Valence, et Lyon. communication graphique. 
 
 ![Exemple de charte graphique et illustration réalisée par Diagone](/img/portfolio_K2.png)
+
+![Exemple de charte graphique et illustration réalisée par Diagone](/img/La_D%C3%A9foul%C3%A9e-POUR_PORTFOLIO-2-500PX.png)
+
  
 ### Les services que je propose
 
