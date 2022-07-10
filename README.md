@@ -16,6 +16,7 @@
 Confiez votre site à un web designer pour le rendre plus attractif visuellement, pour concevoir ou améliorer votre identité visuelle, et faire de votre site web une expérience de navigation attractive et responsive : [**DIAGONE Web Design**](https://diag.one)
 
 Diagone est une micro-entreprise de création de site internet située en France, dans la zone géographique de Saint-Marcellin en Isère. Proche de Pont-en-Royans, Vinay, Saint-Antoine-l'Abbaye, Romans, Tullins, Moirans, Grenoble, Valence, et Lyon. communication graphique. 
+&nbsp;
 
 &nbsp;
 
@@ -24,7 +25,9 @@ Diagone est une micro-entreprise de création de site internet située en France
 
 &nbsp;
 
-### Les services que je propose
+&nbsp;
+
+## Les services que je propose
 
 De l'achat d'un nom de domaine et la mise en place de l'hébergement de votre site internet jusqu'à la création de votre logo ou la refonte de la charte graphique de votre site web existant, je vous conseille et vous propose une solution adaptée à vos besoins et moyens.
        
@@ -34,6 +37,8 @@ De l'achat d'un nom de domaine et la mise en place de l'hébergement de votre si
  Choix d'un site vitrine simple ou d'un site administrable qui vous permet d'en modifier le contenu (Wordpress ou autre CMS, boutique, etc.).  Installation de votre contenu sur des serveurs adéquats. Optimisation pour le référencement par les moteurs de recherche (cohérence HTML et sémantique, métadonnées, contenu enrichi schema.org)
 * **Visuels, charte graphique :**  
 Améliorez l'image de votre site avec des éléments graphiques faits sur mesure: logo, icônes etc. Au-delà des images, je conçois avec vous l'organisation visuelle de votre contenu pour rendre la visite de votre site agréable et efficace, adaptée à toutes les tailles d'écran.
+
+&nbsp;
 
 &nbsp;
 
