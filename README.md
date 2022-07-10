@@ -2,7 +2,7 @@
 
 
 
-## Description de l'activité
+## Description de l'activité DIAGONE
 Infographiste et développeur web full-stack, je suis en mesure de concrétiser vos demandes de création visuelle pour un rendu adapté sur tous types d'écrans.  
 Confiez votre site à un web designer pour le rendre plus attractif visuellement, pour concevoir ou améliorer votre identité visuelle, et faire de votre site web une expérience de navigation attractive et responsive.
 
