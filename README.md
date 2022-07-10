@@ -18,7 +18,7 @@ Diagone est une micro-entreprise de création de site internet située en France
 &nbsp;
 
 ![Exemple de charte graphique et illustration réalisées par Diagone](/img/portfolio_K2.png)  
- <font size="6">(*Ci-dessus : exemple d'illustration et charte graphique réalisées pour le site web de l'équipe championne du monde de Double Dutch, [koezionjump.fr](https://koezionjump.fr/)*)</font>
+<sub>(*Ci-dessus : exemple d'illustration et charte graphique réalisées pour le site web de l'équipe championne du monde de Double Dutch, [koezionjump.fr](https://koezionjump.fr/)*)</sub>
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Améliorez l'image de votre site avec des éléments graphiques faits sur mesure
 &nbsp;
 
 ![Exemple de charte graphique et illustration réalisée par Diagone](/img/La_D%C3%A9foul%C3%A9e-POUR_PORTFOLIO-2-500PX.png)  
-(*Ci-dessus : Visuel réalisé pour le CROUS Grenoble Alpes*)
+<sub>(*Ci-dessus : Visuel réalisé pour le CROUS Grenoble Alpes*)</sub>
 
 &nbsp;
 	
