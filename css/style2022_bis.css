@@ -91,20 +91,24 @@ h1, h2, h3, h4, h5, h6 {
   text-fill-color: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: textclip 1s linear infinite;
-  animation-iteration-count: 1;
+  animation: textclip 7s linear infinite;
+  animation-iteration-count: infinite;
   animation-delay: 1s;
   display: inline-block;
       font-size: 190px;
 }
 
 @keyframes textclip {
-  from {
+ 0%{
     background-position: 200% center;
     background-size: 200% auto;
   }
   
-   to {
+   8%{
+    background-size: 100% auto;
+  }
+  
+     100%{
     background-size: 100% auto;
   }
   
