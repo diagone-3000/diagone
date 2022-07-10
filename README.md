@@ -1,7 +1,6 @@
 # Vous souhaitez améliorer l'esthétique de votre site web ou en créer un de toute pièce? 
 
-**DIAGONE Web Design** 
-* Site web : [**DIAG.ONE**](https://diag.one)
+**DIAGONE Web Design** (Site web : [**DIAG.ONE**](https://diag.one))
 
 ## Description de l'activité
 Infographiste et développeur web full-stack, je suis en mesure de concrétiser vos demandes de création visuelle pour un rendu adapté sur tous types d'écrans.  
