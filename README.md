@@ -46,6 +46,10 @@ Le web design est un ensemble de compétences pour concevoir l'interface web qui
 Le web design nécessite des compétences en programmation, en ergonomie, en graphisme et communication graphique, ainsi qu'une bonne connaissance des contraintes techniques liées au domaine du web.
 Ce sont des connaissances indispensables pour pouvoir concevoir une maquette (ou modélisation), dans lesquelles les contraintes d'ergonomie peuvent s'accorder avec la création d'une charte graphique, d'une palette couleur, et d'un logo sur-mesure.
 
+![Illustration de cubes stylisés façon technologie](/img/cubes.png)
+
+&nbsp;
+
 ## Contactez-moi
 Pour une demande de devis ou pour un simple avis, n'hésitez pas à me contacter pour me parler de votre projet, en m'expliquant ce que vous cherchez à réaliser.  
 Je vous répondrai au plus tôt.
