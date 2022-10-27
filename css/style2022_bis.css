@@ -675,7 +675,7 @@ padding-right: 1.4rem;
 .carousel-container::before {
 content: '';
 /*! background-color: lavenderblush; */
-    background-image: linear-gradient(pink, pink), linear-gradient(palevioletred, #d0b2bc), linear-gradient(#d9d9d9, #dfe8e7), linear-gradient(#d9d9d9, #a5acab);
+    background-image: linear-gradient(pink, pink), linear-gradient(#db709300, #d0b2bc), linear-gradient(#d9d9d9, #dfe8e7), linear-gradient(#d9d9d9, #a5acab);
     background-size: 100% 2px, 2px 100%, 1px 100%, 100% 1px;
     background-position: 0 center, 60% 0, center 100%, 0 25em;
     background-repeat: no-repeat;
