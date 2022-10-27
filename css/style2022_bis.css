@@ -265,9 +265,9 @@ a.serree {
   background-repeat: no-repeat;
   /*background-color: #f7f7f7;*/
 background: white;
-background: -webkit-radial-gradient(bottom, #FFF, #F0FFFB);
+background: -webkit-radial-gradient(bottom, #e8faf4, #fff);
 /*! background: -moz-radial-gradient(bottom, #FFF, #F3F4F4); */
-background: radial-gradient(bottom, #FFF, #F0FFFB);
+background: radial-gradient(bottom, #e8faf4, #fff);
 
 
 }
