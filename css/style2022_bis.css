@@ -3,7 +3,7 @@
   Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
-*/
+*/ 
 /*--------------------------------------------------------------
 # General  
 --------------------------------------------------------------*/
@@ -691,8 +691,8 @@ position: absolute;
 	margin-left: auto;
 	/*! margin-right: auto; */
 	margin-bottom: 30px;
-	font-size: 8.8em;
-	font-weight: 400;
+	font-size: 5.5em;
+	font-weight: 200;
 	margin-top: -30px;
 	font-family: 'Montserrat', cursive;
 	text-align: center;
@@ -702,9 +702,9 @@ color: black;
 -webkit-text-fill-color: transparent;
 -webkit-background-clip: text;
 -webkit-box-decoration-break: clone;
-	font-family: 'Water Brush', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	height: 200px;
-	transform: rotate(-6deg);
+	/*! transform: rotate(-6deg); */
 	z-index: 2;
 	position: relative;
 }
@@ -2758,3 +2758,4 @@ margin-top: -5em;
 
 #skills .progress-bar {
   width: 
+
