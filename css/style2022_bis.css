@@ -3,11 +3,10 @@
   Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
-*/
+*/ 
 /*--------------------------------------------------------------
 # General  
 --------------------------------------------------------------*/
-
 // Colors
 $bg-color: hsl(256,33,10);
 $dot-color: hsl(256,33,70);
@@ -21,7 +20,6 @@ body {
   background: #fff;
   color: #666666;
   font-family: "Open Sans", sans-serif;
-  margin: 0 !important;
 } 
 
 a {
@@ -76,45 +74,6 @@ h1, h2, h3, h4, h5, h6 {
     bottom: 15px;
   }
 }
-
-/*-------------------------------------------------------------
-# Animation titre
---------------------------------------------------------------*/
-.animate-character
-{
-   
-  background-size: auto auto;
-  background-clip: border-box;
-  background-size: 100% auto;
-  color: #fff;
-  background-clip: text;
-  text-fill-color: transparent;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: textclip 7s linear infinite;
-  animation-iteration-count: infinite;
-  animation-delay: 1s;
-  display: inline-block;
-      font-size: 190px;
-}
-
-@keyframes textclip {
- 0%{
-    background-position: 200% center;
-    background-size: 200% auto;
-  }
-  
-   8%{
-    background-size: 100% auto;
-  }
-  
-     100%{
-    background-size: 100% auto;
-  }
-  
-  
-}
-
 
 /*--------------------------------------------------------------
 # Header
@@ -228,7 +187,6 @@ a.serree {
   padding: 0;
   margin: 0;
 	margin-top: -15px;
-	padding-left: 15px;
 }
 
 @media (max-width: 768px) {
@@ -237,7 +195,6 @@ a.serree {
   }
   #header #logo img {
     max-height: 40px;
-    padding-left: 15px;
   }
 }
 
@@ -419,6 +376,9 @@ background: radial-gradient(bottom, #FFF, #F0FFFB);
 }
 
 
+
+
+
 #regle {
 	display: block;
 	position: absolute;
@@ -445,34 +405,6 @@ background: radial-gradient(bottom, #FFF, #F0FFFB);
 	accent-coloraccent-color: ;
 }
 
-@media (max-width: 768px) {
-#regle {
-	display: block;
-	position: absolute;
-	/*! top: 0px; */
-	/*animation: Upup1 3s linear infinite;*/
-	z-index: 0;
-	
-	width: 150px;
-	/*! left: -120px; */
-	/*! margin-left: auto; */
-	/*! margin-right: auto; */
-	width: 400px;
-	/*! margin-top: -40px; */
-	/*! margin-left: -30px; */
-	/*! margin-top: 10%; */
-	/*! margin-left: 10%; */
-	/*! margin-right: 0; */
-	z-index: 1;
-	top: 28em;
-	transform: rotate(7deg);
-	right: -20%;
-	filter: grayscale(50%);
-	/*! bottom: 3em; */
-	accent-coloraccent-color: ;
-	display:none;
-}
-}
 
 .zoomtitre  {
 	transition: transform .8s;
@@ -675,7 +607,7 @@ padding-right: 1.4rem;
 .carousel-container::before {
 content: '';
 /*! background-color: lavenderblush; */
-    background-image: linear-gradient(pink, pink), linear-gradient(palevioletred, #d0b2bc), linear-gradient(#d9d9d9, #dfe8e7), linear-gradient(#d9d9d9, #a5acab);
+    background-image: linear-gradient(pink, pink), linear-gradient(#db709300, #d0b2bc), linear-gradient(#d9d9d9, #dfe8e7), linear-gradient(#d9d9d9, #a5acab);
     background-size: 100% 2px, 2px 100%, 1px 100%, 100% 1px;
     background-position: 0 center, 60% 0, center 100%, 0 25em;
     background-repeat: no-repeat;
@@ -691,7 +623,7 @@ position: absolute;
 	margin-left: auto;
 	/*! margin-right: auto; */
 	margin-bottom: 30px;
-	font-size: 8.8em;
+	font-size: 9em;
 	font-weight: 400;
 	margin-top: -30px;
 	font-family: 'Montserrat', cursive;
@@ -702,8 +634,8 @@ color: black;
 -webkit-text-fill-color: transparent;
 -webkit-background-clip: text;
 -webkit-box-decoration-break: clone;
-	font-family: 'Water Brush', sans-serif;
-	height: 200px;
+	font-family: 'Water Brush', cursive;
+	height: 500px;
 	transform: rotate(-6deg);
 	z-index: 2;
 	position: relative;
@@ -713,7 +645,7 @@ color: black;
 #intro h2 {
 	color: #7b7b7b;
 	 font-size: 35px;
-	display:none;
+	/*background-color: #d6d6d64d;*/
 	}
 
 }
@@ -1104,15 +1036,9 @@ display: block;
 --------------------------------------------------------------*/
 /* Nav Menu Essentials */
 .nav-menu, .nav-menu * {
-	margin: 0;
-	padding: 0;
-	list-style: none;
-	text-decoration: none;
-	font-family: "Montserrat", sans-serif;
-	font-weight: 700;
-	font-size: 13px;
-	text-transform: uppercase;
-	color: #f9a5a5;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 .nav-menu ul {
@@ -1168,9 +1094,6 @@ display: block;
 #nav-menu-container {
   float: left;
   margin: 0;
-  padding-right: 60px;
-   text-transform: uppercase;
-
 }
 
 
@@ -1199,9 +1122,10 @@ a.nav-droite:hover {
   }
 }
 
-/*@media (max-width: 768px) {
+@media (max-width: 768px) {
   #nav-menu-container {
-  }*/
+    display: none;
+  }
 
   .nav-droite {
     display: none;
@@ -1414,8 +1338,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	font-weight: 700;
 	position: relative;
 	padding-bottom: 15px;
-	font-family: 'Amatic SC', cursive;
-	font-family: 'Iceberg', cursive;
+	font-family: 'Iceberg',  'Montserrat';
 	 /*! background-image: linear-gradient(300deg, #ee7676, #f46e6e); */
             /*! filter: drop-shadow(0 20px 30px #28d8ff33); */
             color: #555051;
@@ -2552,17 +2475,20 @@ img#siteskills2 {
 background-color: transparent !important;
 box-shadow: none !important;
 width: 150px;
-margin-left: 4em;
+/*! margin-left: 4em; */
 /*! margin-right: 45%; */
-display: inline;
-margin-top: -6em;
+display: inline-block;
+margin-top: -8em;
 /*! float: right; */
+filter: grayscale(0.1);
 }
 
 #siteskills2b {
 background-color: transparent !important;
 box-shadow: none !important;
-filter: brightness(1.3);
+margin-top: 3em;
+display: inline;
+/*! right: 1em; */
 }
 
 
@@ -2590,7 +2516,6 @@ position: relative;
 background-color: transparent !important;
 box-shadow: none !important;
 margin-top: -2em;
-filter: brightness(1.2);
 }
 
 
