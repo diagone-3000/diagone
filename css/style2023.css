@@ -3,11 +3,11 @@
   Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
-*/
+*/  
 /*--------------------------------------------------------------
 # General  
 --------------------------------------------------------------*/
-
+ 
 // Colors
 $bg-color: hsl(256,33,10);
 $dot-color: hsl(256,33,70);
@@ -1241,7 +1241,7 @@ position: absolute;
 top: -130px;
 z-index: 3;
 right: -650px;
-animation: Rotationnite2 6s ease-out infinite;
+animation: Rotationnite2 3s ease-out infinite;
 }
 
 @keyframes Rotationnite2 {
@@ -1250,7 +1250,7 @@ animation: Rotationnite2 6s ease-out infinite;
   	}
   	
   	20% {
-transform: translate(-0.3em, 1.5em) rotate(0.1deg);
+transform: translate(-0.3em, 1.3em) rotate(0.1deg);
   	}
   	
   	50% {
@@ -1328,26 +1328,38 @@ transform:  rotate(-0.3deg);
   	stroke-dashoffset: 0;
 
 	fill: transparent;
+	margin-top: -300px;
+	animation: Rotationnite2 3s ease-out infinite;
+	position: relative;
+	top: -200px;
+	left: 60%;
 }
 
 #cerclesvg1 {
 	stroke: #276f5f;
 	stroke:url(#gradient-cercle);
-	stroke-width:0.7;
+	stroke-width:0.6;
 	stroke-dasharray: 0;
   	stroke-dashoffset: 0;
 
 	fill: transparent;
+	margin-top: -120px;
+	animation: Rotationnite3 4s ease-out infinite;
+	margin-left: -60px;
 }
 
 #rectanglesvg1 {
 	stroke: #276f5f;
 	stroke:url(#gradient-cercle);
-	stroke-width:0.4;
+	stroke-width:0.3;
 	stroke-dasharray: 0;
   	stroke-dashoffset: 0;
 
 	fill: transparent;
+	animation: Rotationnite4 3s ease-out infinite;
+	top: 350px;
+	position: absolute;
+	margin-left: -70px;
 }
 
 
