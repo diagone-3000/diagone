@@ -29,10 +29,29 @@
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="lib/animate/animate.min.css" rel="stylesheet">
   <!--<link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">-->
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
   <!-- Main Stylesheet File -->
   <link href="css/style2023.css" rel="stylesheet">
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+
+    <!-- Template Main Javascript File -->
+  <script src="js/main_2023.js"></script>
 
 <!-- JSON Schema Markup Local Business-->
 <script type="application/ld+json">
@@ -78,23 +97,15 @@
     <div class="container-fluid">
 
       <div id="logo" class="pull-left">
-        <h1><a href="index.html"><img class="img-fluid" src="./img/logo_barre_titre.png" alt="petit logo de l'entreprise Diagone"></a></h1>
+        <h1><img class="img-fluid" src="./img/logo_barre_titre.png" alt="petit logo de l'entreprise Diagone"></h1>
       </div>
 
       <nav id="nav-menu-container">
-      
         <ul class="nav-menu">
-           <li><a href="portfolio.html">portfolio</a></li>
-        </ul>
-        <div class="nav-droite">
-         <a class="nav-droite email1" href="mailto:contact@diag.one">contact@diag.one</a>
-        <a class="nav-droite" href="https://instagram.com/diagone3000"><i class="fa fa-instagram"></i></a></div>
-        
           
-         
-        
-      </nav>
-      <!-- #nav-menu-container -->
+          <li><a href="mailto:contact@diag.one">contact@diag.one</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
     </div>
 	
   </header><!-- #header -->
@@ -123,16 +134,14 @@
 			 
 			
 			<!-- P L A Q U E  N O M -->
-			<div id="container-plaquesvg"><a href="portfolio.html">
+			<div id="container-plaquesvg">
 			<svg id="plaque" preserveAspectRatio="xMidYMid meet" viewBox="10 120 100 30" stroke="white">
 			<linearGradient id="gradient-plaque" x1="0%" y1="0%" x2="100%" y2="0%">
       			<stop offset="0%" stop-color="#e08f8f"></stop>
       			<stop offset="100%" stop-color="#a2cdb8"></stop>
     			</linearGradient>
 			<path d="m 94.125998,121.9168 -71.919137,6.0254 1.38577,16.5477 71.920061,-6.0248 z m -3.524165,2.9156 0.157718,1.9178 -5.31063,0.4362 0.224729,2.7383 4.537983,-0.3728 0.151799,1.8543 -4.537061,0.3734 0.252531,3.0692 5.334339,-0.4385 0.15681,1.91 -7.709299,0.6336 -0.94451,-11.4892 z m -9.753323,0.8019 0.944513,11.4901 -2.366762,0.1946 -5.230839,-7.1887 0.622229,7.5675 -2.37498,0.1951 -0.945419,-11.4891 2.375418,-0.1952 5.231313,7.1965 -0.623142,-7.5753 z m -15.446409,1.1359 c 1.212241,0.012 2.252641,0.4263 3.121649,1.2445 0.99799,0.9295 1.569011,2.2701 1.713082,4.022 l 0.0425,0.5128 c 0.144079,1.7518 -0.197702,3.1676 -1.02521,4.2471 -0.822222,1.0793 -1.954191,1.6784 -3.395602,1.797 -1.44145,0.1184 -2.661099,-0.2873 -3.659089,-1.2167 -0.997979,-0.9295 -1.569019,-2.2702 -1.713079,-4.0219 l -0.0425,-0.5133 c -0.144381,-1.7518 0.197389,-3.1675 1.02522,-4.2472 0.82703,-1.0848 1.96146,-1.6865 3.402889,-1.8051 0.180191,-0.015 0.356991,-0.021 0.530161,-0.019 z M 54.396572,127.66 c 1.223949,-0.022 2.17251,0.2548 2.845401,0.8297 0.769038,0.657 1.262628,1.5381 1.480589,2.643 l -2.304761,0.1892 c -0.137009,-0.5713 -0.3824,-1.0175 -0.737119,-1.3379 -0.354711,-0.3204 -0.890021,-0.4509 -1.605481,-0.3921 -1.551911,0.1276 -2.287209,1.2684 -2.205389,3.4225 l 0.0857,1.1291 c 0.0998,1.21 0.39778,2.1015 0.894832,2.675 0.50261,0.573 1.20619,0.8229 2.111028,0.7485 0.568143,-0.046 0.989441,-0.1454 1.263161,-0.2949 0.27324,-0.1549 0.46809,-0.2976 0.584401,-0.429 l -0.16229,-1.9811 -2.146581,0.1764 -0.14315,-1.7359 4.52156,-0.3715 0.376991,4.5849 c -0.246721,0.3487 -0.70495,0.7387 -1.373941,1.1697 -0.663678,0.4307 -1.626579,0.6976 -2.88915,0.8015 -1.488789,0.1223 -2.733159,-0.2601 -3.73294,-1.147 -0.99496,-0.8927 -1.56546,-2.2253 -1.711259,-3.9982 l -0.0562,-0.6865 c -0.146161,-1.7729 0.180319,-3.1796 0.97962,-4.2198 0.79851,-1.0455 1.926101,-1.6284 3.383309,-1.7482 0.18609,-0.015 0.366691,-0.024 0.541549,-0.027 z m 10.927149,1.0777 c -0.0945,0 -0.192019,1e-4 -0.291309,0.01 -0.79439,0.065 -1.38154,0.4256 -1.761839,1.0822 -0.380762,0.6509 -0.524643,1.5712 -0.432142,2.7606 l 0.0465,0.5679 c 0.0985,1.1942 0.392419,2.0916 0.88115,2.6923 0.48855,0.5953 1.132268,0.8598 1.931879,0.794 0.79439,-0.065 1.379482,-0.428 1.754089,-1.0894 0.379892,-0.6616 0.523783,-1.5843 0.431702,-2.7684 l -0.0469,-0.5684 c -0.0986,-1.1994 -0.39217,-2.094 -0.880231,-2.6841 -0.427109,-0.5163 -0.97127,-0.7813 -1.63285,-0.7959 z m -26.24318,0.3314 0.94542,11.4901 -2.36767,0.1946 -0.94452,-11.49 z m 5.69308,0.022 5.415931,10.49 -8.870811,0.7726 z m -14.60903,0.7353 c 1.29969,0 2.41118,0.4133 3.33544,1.2271 1.06156,0.9296 1.65971,2.2152 1.79468,3.8565 l 0.0425,0.5128 c 0.13515,1.6413 -0.24493,3.0071 -1.14054,4.0976 -0.89061,1.0849 -2.11965,1.6918 -3.68735,1.8207 l -3.5114,0.2881 -0.94498,-11.4892 3.54331,-0.2913 c 0.19335,-0.015 0.38277,-0.023 0.56844,-0.022 z m -0.003,1.9263 c -0.109161,-0.01 -0.22158,-1e-4 -0.337321,0.01 l -1.239009,0.1013 0.62998,7.6624 1.13644,-0.093 c 0.931139,-0.077 1.6139,-0.4373 2.04814,-1.0822 0.43947,-0.6452 0.61813,-1.5309 0.53606,-2.6576 l -0.0492,-0.5994 c -0.0962,-1.1679 -0.400549,-2.0305 -0.912159,-2.5869 -0.44314,-0.4872 -1.04738,-0.7383 -1.81245,-0.7531 z"> </path>
-			<div class="lien1"> P O R T F O L I O </div>
-			</svg></a>
-				
+			</svg>
 					
 				</div>
 				 <!-- F O R M E   R E C T A N G L E -->
